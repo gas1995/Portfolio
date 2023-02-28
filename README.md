@@ -1,4 +1,4 @@
-# ![ФОТО](https://drive.google.com/file/d/1PM8RpZh_49tu30wJ_GjkwCTurNxXXqbo/view?usp=sharing) Портфолио
+# ![ФОТО](https://i.postimg.cc/15LWXvQQ/cat.png) Портфолио
 
 ## Junior QA Engineer
 
